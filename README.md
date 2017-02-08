@@ -1,1 +1,1 @@
-# vue.js2.0-plactice
+# vue.js2.0-practice
